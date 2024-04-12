@@ -12,3 +12,6 @@ file2.
 file3,
 
 new feature3
+
+index2.html
+
